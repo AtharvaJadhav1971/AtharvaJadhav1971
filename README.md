@@ -7,7 +7,7 @@ Data Science Enthusiastic
 As a data science enthusiast, I am passionate about exploring and analyzing complex datasets to derive meaningful insights and make data-driven decisions. My GitHub profile is a showcase of my expertise in data visualization, machine learning, statistical analysis, and programming languages like Python, R, SQL, and more. Follow me to stay updated on my latest projects, contributions, and collaborations in the exciting field of data science.
 
 * 🌍  I'm based in Pune
-* ✉️  You can contact me at [atharva.22010121@viit.ac.in](mailto:atharva.22010121@viit.ac.in)
+* ✉️  You can contact me at [atharva.22010121@viit.ac.in](mailto:atharvamj20@gmail.com)
 * 🧠  I'm learning Machine Learning, Data Structure and Algorithm, Data analytics
 * 🤝  I'm open to collaborating on Data Science Projects
 
